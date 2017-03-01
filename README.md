@@ -1,1 +1,1 @@
-# modern-django
+# Modern Django
